@@ -1,2 +1,2 @@
-# Esse comando exibe uma mensagem na tela
+# Esse comando exibe a mensagem 'Olá, Mundo!' na tela
 print("Olá, Mundo!")
