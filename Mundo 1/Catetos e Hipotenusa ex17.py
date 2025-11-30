@@ -1,8 +1,6 @@
-# Desenha uma linha de separação composta por 35 caracteres '='
+# Exibe um cabeçalho com linhas e título centralizado
 print("=" * 35)
-# Exibe o título centralizado em 35 colunas
 print("Catetos e Hipotenusa".center(35))
-# Desenha outra linha de separação igual à primeira
 print("=" * 35)
 
 # Importa a função hypot da biblioteca math para calcular a hipotenusa
