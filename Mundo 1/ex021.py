@@ -4,8 +4,8 @@ import pygame
 # Inicializa o mixer de áudio do pygame, necessário para reproduzir sons e músicas
 pygame.mixer.init()
 
-# Carrega o arquivo de música especificado (neste caso, "Tocando um mp3.mp3") para o mixer
-pygame.mixer.music.load("Tocando um mp3.mp3")
+# Carrega o arquivo de música especificado (neste caso, "ex021.mp3") para o mixer
+pygame.mixer.music.load("ex021.mp3")
 
 # Define o volume da música para 70% (0.7 é um valor entre 0.0 e 1.0)
 pygame.mixer.music.set_volume(0.7)
