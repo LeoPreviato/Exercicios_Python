@@ -16,7 +16,7 @@ if num == computador:
     print("Parabéns jogador, você acertou!!!")
     som = pygame.mixer.Sound("ex028_som1.mp3")
 else:
-    print("você errou!!!")
+    print(f"você errou!!!, eu digitei o número {computador}")
     som = pygame.mixer.Sound("ex028_som2.mp3")
 
 efeito_sonoro = som.play()
