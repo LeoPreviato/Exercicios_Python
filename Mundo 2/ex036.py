@@ -41,4 +41,3 @@ else:
     sleep(1)
     # Mostra os detalhes da prestação formatados com 2 casas decimais
     print(f"Você terá que pagar R${prestacao:.2f} por mes em {anos_pagar} anos.")
-# Nota: O caso onde prestação == limite não é tratado, o que pode ser um bug
