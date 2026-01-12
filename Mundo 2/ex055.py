@@ -9,7 +9,7 @@ nome_maior_peso = ""
 nome_menor_peso = ""
 
 # Laço de repetição que irá executar 7 vezes (para 7 pessoas)
-for cont in range(1, 8):
+for cont in range(1, 6):
 
     # Solicita o nome da pessoa, remove espaços extras e capitaliza a primeira letra
     nome = str(input(f"Digite o nome da {cont}º pessoa: ")).strip().capitalize()
