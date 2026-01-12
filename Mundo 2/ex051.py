@@ -20,7 +20,7 @@ for cont in range(1, 11):
     # a_n = a_1 + (n - 1) * r
     # Aqui, 'cont' começa em 0, então a fórmula fica adaptada:
     # termo = primeiro_termo + cont * razao
-    PA = primeiro_termo + cont * razao
+    PA = primeiro_termo + (cont - 1) * razao
 
     # Exibe cada termo da PA na mesma linha, separado por " - "
     # O parâmetro end evita a quebra de linha automática
