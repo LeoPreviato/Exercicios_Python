@@ -32,7 +32,7 @@ print()
 
 # Se o sexo for "M", imprime masculino
 if sexo == "M":
-    print("Você é do sexo MASCULINO! 🚹")
+    print("Sexo Masculino registrado com sucesso! 🚹")
 # Caso contrário, só pode ser "F"
 else:
-    print("Você é do sexo FEMININO! 🚺")
+    print("Sexo Feminino registrado com sucesso! 🚺")
