@@ -1,3 +1,5 @@
+print(" Calculo do Factorial ".center(50, "="))
+
 # Pede ao usuário um número inteiro para calcular o fatorial
 num = int(input("Digite um número para calcular o seu factorial: "))
 
