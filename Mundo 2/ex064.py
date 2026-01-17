@@ -2,11 +2,9 @@
 print(" Tratando Varios Valores V.1.0 ".center(60, "="))
 
 # Variável que guarda o número digitado pelo usuário
-num_usuario = 0
-
 # Variável que soma os números digitados
 # Variável que conta quantos números foram digitados
-soma = numeros_digitados = 0
+soma = numeros_digitados = num_usuario = 0
 
 # Enquanto o usuário NÃO digitar 999, o loop continua
 while num_usuario != 999:
