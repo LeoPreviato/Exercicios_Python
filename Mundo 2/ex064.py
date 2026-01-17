@@ -24,10 +24,5 @@ while num_usuario != 999:
         # Conta mais um número digitado
         numeros_digitados += 1
 
-# Mostra a soma de todos os números digitados (exceto o 999)
-print(f"A soma de todos os número é {soma}")
-
-print()
-
-# Mostra quantos números válidos foram digitados
-print(f"Você digitou {numeros_digitados} números")
+# Mostra a soma de todos os números digitados (exceto o 999) e quantos números foram digitados
+print(f"A soma de todos os número é {soma}, e você digitou {numeros_digitados} números")
