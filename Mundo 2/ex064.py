@@ -11,7 +11,7 @@ soma = numeros_digitados = 0
 # Enquanto o usuário NÃO digitar 999, o loop continua
 while num_usuario != 999:
     # Pede um número ao usuário
-    num_usuario = int(input("Digite um número qualquer: "))
+    num_usuario = int(input("Digite um número qualquer ou [999] para parar: "))
 
     # Linha separadora visual
     print("-" * 60)
