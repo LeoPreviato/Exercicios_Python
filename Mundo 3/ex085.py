@@ -25,6 +25,12 @@ for cont in range(1, 8):
 
 print("=" * 60)
 
+# Ordena em ordem crescente a lista 0
+lista_num[0].sort()
+
+# Ordena em ordem crescente a lista 1
+lista_num[1].sort()
+
 print(f"Os valores PARES foram: {lista_num[0]}")
 # Mostra todos os pares armazenados
 
