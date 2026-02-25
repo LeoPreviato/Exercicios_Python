@@ -9,12 +9,12 @@ from time import sleep
 
 
 def voto(nascimento):
+    """
+        -> Verifica a idade da pessoa e mostra na tela a sua situação para votar
+        :param nascimento: Recebe o ano de nascimento da pessoa
+        :return: Retorna de acordo com a idade se a pessoa pode votar, não pode ou voto opcional
+        """
     idade = date.today().year - nascimento
-    """
-    -> Verifica a idade da pessoa e mostra na tela a sua situação para votar
-    :param nascimento: Recebe o ano de nascimento da pessoa
-    :return: Retorna de acordo com a idade se a pessoa pode votar, não pode ou voto opcional
-    """
     if 18 <= idade <= 69:
         return f"Você tem {idade} anos: SEU VOTO É OBRIGATÓRIO"
     elif 16 <= idade <= 17:
