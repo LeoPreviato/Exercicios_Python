@@ -18,12 +18,9 @@ def voto(nascimento):
     if 18 <= idade <= 69:
         return f"Você tem {idade} anos: SEU VOTO É OBRIGATÓRIO"
     elif 16 <= idade <= 17:
-        return f"Você tem {idade} anos: VOTO OPCIONAL"
+        return f"Você tem {idade} anos: NÃO PODE VOTAR"
     elif idade >= 70:
         return f"Você tem {idade} anos: VOTO OPCIONAL"
-    else:
-        return f"Você tem {idade} anos: AINDA NÃO PODE VOTAR"
-
 
 # Solicita ao usuário o ano de nascimento e converte para inteiro
 ano_nascimento = int(input("Em que ano você nasceu? R: "))
