@@ -44,5 +44,5 @@ numero_real = leiafloat("Informe um valor real: ")
 
 # Exibe um separador visual no terminal.
 print("=" * 57)
-# Mostra os valores capturados pelas funções de leitura segura.
+# Mostra os valores das funções leiaint() e leiafloat().
 print(f"O valor inteiro digitado foi {numero_inteiro}, e o valor real foi {numero_real}")
