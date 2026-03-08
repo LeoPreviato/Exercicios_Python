@@ -1,4 +1,3 @@
-"""Executa o resumo de operações monetárias do exercício 112."""
 
 from utilidadesCev import moeda, dados
 
