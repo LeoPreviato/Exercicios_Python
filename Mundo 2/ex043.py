@@ -37,7 +37,7 @@ elif imc < 25:
 
 elif imc < 30:
     # Se chegou aqui, o IMC está entre 25 e 29.9
-    print("Você está com sobrepeso.")
+    print("Você está sobrepeso.")
     sleep(0.8)
     print("Procure fazer exercícios!🏃🏼🏃🏼‍♀️")
 
