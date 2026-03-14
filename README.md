@@ -1,4 +1,4 @@
-# 🐍 Exercícios de Python
+# - Exercícios de Python
 
 Este repositório contém meus **exercícios e práticas do curso de Python** do **Curso em Vídeo**, ministrado por **Gustavo Guanabara**.
 
@@ -6,7 +6,7 @@ Aqui registro minha evolução na linguagem **Python**, desde conceitos básicos
 
 ---
 
-## 📚 Estrutura do Repositório
+## - Estrutura do Repositório
 
 O conteúdo está organizado por módulos do curso:
 
@@ -32,7 +32,7 @@ Cada pasta representa um **módulo do curso**, contendo os exercícios resolvido
 
 ---
 
-## 🧠 Conteúdos praticados
+## - Conteúdos praticados
 
 Durante os exercícios eu pratiquei conceitos como:
 
@@ -48,7 +48,7 @@ Durante os exercícios eu pratiquei conceitos como:
 
 ---
 
-## 🎯 Objetivo
+## - Objetivo
 
 O objetivo deste repositório é:
 
@@ -58,10 +58,10 @@ O objetivo deste repositório é:
 
 ---
 
-## 📌 Curso utilizado
+## - Curso utilizado
 
 Curso de Python do **Curso em Vídeo** com **Gustavo Guanabara**.
 
 ---
 
-💻 Repositório criado para fins de estudo e prática em programação.
+- Repositório criado para fins de estudo e prática em programação.
